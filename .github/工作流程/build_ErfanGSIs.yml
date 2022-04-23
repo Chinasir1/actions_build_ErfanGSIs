@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/7.11.16/miui_MINotePro_7.11.16_e79004314c_7.0.zip
+  ROM_URL: https://d.pcs.baidu.com/file/06ed2a56bec343069cdfefdd1e1f437f?fid=4193597843-250528-846048243831180&dstime=1650697196&rt=sh&sign=FDtAERVJouK-DCb740ccc5511e5e8fedcff06b081203-FU7Nl4kEMynu4OkdNfPvLENGHz8%3D&expires=8h&chkv=1&chkbd=0&chkpc=&dp-logid=306247719638790183&dp-callid=0&shareid=1569980235&r=930370962&resvsflag=1-12-0-1-1-1&vuk=1185512293&file_type=0
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
